@@ -1,5 +1,5 @@
 # vaccine-monitor
 Monitor bookable times for COVID-19 Vaccination in Göteborg
 
-# Depdendencies
+# Dependencies
 pip3 install bs4
