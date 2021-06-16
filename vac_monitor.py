@@ -6,7 +6,6 @@ from bs4 import BeautifulSoup
 cached_locations = {}
 delay = 5
 
-
 URL = 'https://www.vgregion.se/ov/vaccinationstider/bokningsbara-tider/'
 
 def log(string):
